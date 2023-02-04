@@ -1,0 +1,6 @@
+[
+{"firstName":"a","lastName":"a","userName":"a","dateOfbirth":"a","password":"aaaaaa","wallet":10568},
+{"firstName":"Mor","lastName":"Mor","userName":"mor","dateOfbirth":"8989","password":"mor123","wallet":0},
+{"firstName":"a","lastName":"a","userName":"aa","dateOfbirth":"a","password":"aaaaaa","wallet":303580},
+{"firstName":"a","lastName":"a","userName":"aaa","dateOfbirth":"a","password":"aaaaaa","wallet":250}
+]
